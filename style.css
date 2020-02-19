@@ -1,0 +1,40 @@
+*{
+
+    margin: 0;
+}
+body{
+    font-family: cursive;
+    background-color: #beda355b; 
+}
+
+.carousel-item img{
+    width: 100%!important;
+    height: 600px!important;
+}
+.item-shop img{
+    width: 20%;
+    height: 20%;   
+}
+.dropdown{
+   margin-left: 260%;
+   
+}
+.item-shop {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    border-bottom: 2px solid #eaf7ae98;
+    height: 40%;
+}
+.shop-section{
+margin: 30px 2%;
+color: rgba(0,0,0,.5);
+background-color: white;
+border-radius: 10px;
+}
+
+i{
+    color: #acc52f98;
+    font-size: 25px;
+}
